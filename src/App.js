@@ -14,8 +14,8 @@ function App() {
       <div style={{ height: '100vh' }}>
         <NavBar />
         <Routes>
-          <Route path='/seller' element={<Seller/>}/>
-          <Route path='/' element={<Home/>}/>
+          <Route path='/copywriter/seller' element={<Seller/>}/>
+          <Route path='/copywriter' element={<Home/>}/>
         </Routes>
       </div>  
     </Router>
