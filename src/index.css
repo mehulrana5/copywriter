@@ -36,6 +36,18 @@ select{
   height: 25px;
   outline: none;
 }
+.btn-check:focus+.btn, .btn:focus{
+  box-shadow: none;
+}
+.form-control:focus{
+  box-shadow: none;
+}
+.form-check-input:focus{
+  box-shadow: none;
+}
+a{
+  text-decoration: none;
+}
 @media screen and (max-width:500px) {
   .check-btn{
     margin-top: 5px;

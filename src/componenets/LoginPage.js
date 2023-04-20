@@ -26,7 +26,7 @@ const LoginPage = () => {
                                     <a href="/" className="link-primary mx-3">Fogot password</a>
                                 </div>
                                 <button type="submit" className="btn btn-primary">Login</button>
-                                <a href='/' className="link-primary mx-3">Sign in with Google</a>
+                                <a href='/' className="link-primary mx-3">Continue in with Google</a>
                             </form>
                         </div>
                     </div>
