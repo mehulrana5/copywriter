@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/copywriter/static/css/main.b279ef3a.css",
-    "main.js": "/copywriter/static/js/main.3d293c6c.js",
+    "main.css": "/copywriter/static/css/main.f35a3b7a.css",
+    "main.js": "/copywriter/static/js/main.eb150b2a.js",
     "static/js/787.160298bd.chunk.js": "/copywriter/static/js/787.160298bd.chunk.js",
     "index.html": "/copywriter/index.html",
-    "main.b279ef3a.css.map": "/copywriter/static/css/main.b279ef3a.css.map",
-    "main.3d293c6c.js.map": "/copywriter/static/js/main.3d293c6c.js.map",
+    "main.f35a3b7a.css.map": "/copywriter/static/css/main.f35a3b7a.css.map",
+    "main.eb150b2a.js.map": "/copywriter/static/js/main.eb150b2a.js.map",
     "787.160298bd.chunk.js.map": "/copywriter/static/js/787.160298bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b279ef3a.css",
-    "static/js/main.3d293c6c.js"
+    "static/css/main.f35a3b7a.css",
+    "static/js/main.eb150b2a.js"
   ]
 }
