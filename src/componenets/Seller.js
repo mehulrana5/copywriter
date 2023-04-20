@@ -29,7 +29,7 @@ export default function Seller() {
                         </div>
                     </div>
                     <div class="col-md-3">
-                        <label for="validationCustom04" class="form-label">Location</label>
+                        <label for="validationCustom03" class="form-label">Location</label>
                         <input type="text" class="form-control" id="validationCustom03" required />
                     </div>
                     <div class="col-md-4">
